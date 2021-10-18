@@ -1,3 +1,3 @@
 <?php
-XXXX
+echo "XXXX";
 ?>
